@@ -1,8 +1,7 @@
 # Open Street Map Sample for WinForms
 
 ### Description
-OpenStreetMap (OSM) is a collaborative project to create free geographic data for the entire world. It can be thought of as a "Free Wiki World Map". 
-The latest version of MapSuite now supports this.  
+OpenStreetMap (OSM) is a collaborative project to create free geographic data for the entire world. It can be thought of as a "Free Wiki World Map".The latest version of MapSuite now supports this.  
 
 ![Screenshot](https://github.com/ThinkGeo/OpenStreetMapSample-ForWinForms/blob/master/ScreenShot.png)
 
