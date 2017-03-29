@@ -3,7 +3,7 @@
 ### Description
 OpenStreetMap (OSM) is a collaborative project to create free geographic data for the entire world. It can be thought of as a "Free Wiki World Map". The latest version of MapSuite now supports this.  
 
-Please refer to [Wiki](http://wiki.thinkgeo.com/wiki/map_suite_desktop_for_wpf) for the details.
+Please refer to [Wiki](System.String[]) for the details.
 
 ![Screenshot](https://github.com/ThinkGeo/OpenStreetMapSample-ForWinForms/blob/master/ScreenShot.png)
 
