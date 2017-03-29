@@ -3,6 +3,8 @@
 ### Description
 OpenStreetMap (OSM) is a collaborative project to create free geographic data for the entire world. It can be thought of as a "Free Wiki World Map". The latest version of MapSuite now supports this.  
 
+Please refer to [Wiki](http://wiki.thinkgeo.com/wiki/map_suite_desktop_for_wpf) for the details.
+
 ![Screenshot](https://github.com/ThinkGeo/OpenStreetMapSample-ForWinForms/blob/master/ScreenShot.png)
 
 ### Requirements
@@ -24,9 +26,9 @@ Once the overlay is added, be sure to call `winformsMap.Refresh()` to get the ma
 
 ### Getting Help
 
-[Map Suite Desktop for Winforms Wiki Resources](http://wiki.thinkgeo.com/wiki/map_suite_desktop_edition)
+[Map Suite Desktop for Winforms Wiki Resources](http://wiki.thinkgeo.com/wiki/map_suite_desktop_for_winforms)
 
-[Map Suite Desktop for Winforms Product Description](http://thinkgeo.com/map-suite-developer-gis/desktop-edition/)
+[Map Suite Desktop for Winforms Product Description](https://thinkgeo.com/ui-controls#desktop-platforms)
 
 [ThinkGeo Community Site](http://community.thinkgeo.com/)
 
