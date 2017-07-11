@@ -37,7 +37,7 @@ Once the overlay is added, be sure to call `winformsMap.Refresh()` to get the ma
 ### Key APIs
 This example makes use of the following APIs:
 
-[ThinkGeo.MapSuite.WinForms.OpenStreetMapOverlay](http://wiki.thinkgeo.com/wiki/api/thinkgeo.mapsuite.winforms.openstreetmapoverlay)
+- [ThinkGeo.MapSuite.WinForms.OpenStreetMapOverlay](http://wiki.thinkgeo.com/wiki/api/thinkgeo.mapsuite.winforms.openstreetmapoverlay)
 
 ### About Map Suite
 Map Suite is a set of powerful development components and services for the .Net Framework.
